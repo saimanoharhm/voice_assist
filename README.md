@@ -41,4 +41,4 @@ Check out the [LICENCE](https://github.com/saimanoharhm/voice_assist/blob/master
 
 ### This Project was a part of the following community.
 
-[<img src ="https://avatars.githubusercontent.com/u/64211771?s=200&v=4" width = 1000 height = 500 alt ="Code for Cause"></img>](https://codeforcause.org/)
+[<img src ="https://avatars.githubusercontent.com/u/64211771?s=200&v=4" width = 500 height = 200 alt ="Code for Cause"></img>](https://codeforcause.org/)
