@@ -72,7 +72,7 @@ git push origin YourBranchName
 - Select any issue or created by your own. 💻  
 - Make sure the problem doesn't already exist in this repository or no one is working on that issue you want to code! 😬                                                                           
 - Create a folder for the topic you wish to add code or if a folder already exists, add your code to it. 📁  
-- In the respective folder, add your code file with proper format (e.g. `cvoice_assist/app.py`)
+- In the respective folder, add your code file with proper format (e.g. `voice_assist/app.py`)
 
 **9.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
