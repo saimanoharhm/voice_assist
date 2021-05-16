@@ -38,6 +38,7 @@ Check out the [Code of conduct](https://github.com/saimanoharhm/voice_assist/blo
 Check out the [LICENCE](https://github.com/saimanoharhm/voice_assist/blob/master/LICENSE)
 
 
+### Give it a 🌟 if you ❤ this project.
 
 ### This Project was a part of the following community.
 
